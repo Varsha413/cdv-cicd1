@@ -12,6 +12,6 @@ public class calculator {
 
         int sum = a + b;
 
-        System.out.println("Sum = " + sum);
+        System.out.println("Sum is = " + sum);
     }
 }
