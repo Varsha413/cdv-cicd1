@@ -16,3 +16,4 @@ public class calculator {
         System.out.println("Sum is = " + sum,"the multiplication is = " + multiplication);
     }
 }
+System.out.println("enter");
