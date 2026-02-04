@@ -11,7 +11,8 @@ public class calculator {
         int b = sc.nextInt();
 
         int sum = a + b;
+        int multiplication = a*b;
 
-        System.out.println("Sum is = " + sum);
+        System.out.println("Sum is = " + sum,"the multiplication is = " + multiplication);
     }
 }
