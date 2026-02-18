@@ -16,5 +16,5 @@ public class calculator {
         System.out.println("Sum is = " + sum,"the multiplication is = " + multiplication);
     }
 }
-System.out.println("enter");
-System.out.println("Bindu");
+System.out.println("enter your name");
+System.out.println("Varsha S");
